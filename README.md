@@ -1,3 +1,5 @@
+# NEXT TASK - DESKTOP => https://github.com/Dimitar-Iliev7/Bluewindow-desktop-task
+
 # Bluewindow-Tasks
 
 I create a star rating component in React using Vite. You can use this in an application where you'd like to give users the ability to rate something on a scale from 1-5, or whatever scale you'd like. And the rating number is going to be displayed on the screen. I saw the rating component in the tasks you gave me. I decided to make a custom React component separately from the other tasks. My task is to show you my skills. I dont want to combine technologies in every separate project. That's why i show you the tasks piece by piece. 
