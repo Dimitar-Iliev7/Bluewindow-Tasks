@@ -17,6 +17,8 @@ For almost one years, I used CRA for my React applications and I was happy becau
 # In the star-rating project 
 I'm using custom React components and { useState } to show my skills with React states. 
 
+Also I'm using Font Awesome for the project => https://fontawesome.com/icons/star?s=solid&f=classic
+
 
 ![rating-code](https://user-images.githubusercontent.com/117073615/225870034-36c16936-b512-49b1-82ee-9572efd8d58a.png)
 ![rating-stars](https://user-images.githubusercontent.com/117073615/225870053-11eb1430-28f0-4f06-ba31-849e0ee0fd8e.png)
