@@ -1,4 +1,3 @@
-# NEXT TASK - DESKTOP => https://github.com/Dimitar-Iliev7/Bluewindow-desktop-task
 
 # Bluewindow-Tasks
 
@@ -20,6 +19,9 @@ For almost one years, I used CRA for my React applications and I was happy becau
 I'm using custom React components and { useState } to show my skills with React states. 
 
 Also I'm using Font Awesome for the project => https://fontawesome.com/icons/star?s=solid&f=classic
+
+# NEXT TASK - DESKTOP => https://github.com/Dimitar-Iliev7/Bluewindow-desktop-task
+
 
 
 ![rating-code](https://user-images.githubusercontent.com/117073615/225870034-36c16936-b512-49b1-82ee-9572efd8d58a.png)
